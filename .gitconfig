@@ -1,6 +1,6 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Daniel Chen
+  email = candleshine@gmail.com
 [core]
   editor = vi
   excludesfile = ~/.gitignore
@@ -23,6 +23,8 @@
 [difftool]
   prompt = false
 [alias]
+  ci = commit
+  co = checkout
   c = commit
   ca = commit -a
   cm = commit -m
